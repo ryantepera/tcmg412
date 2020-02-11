@@ -2,8 +2,6 @@
 
 ### DevOps
 [DevOps Defined](DevOps.md)
-
-
 [The Myths](Myths.md)
 
 ### Jared Crummey
