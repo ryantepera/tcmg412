@@ -4,8 +4,6 @@
 [DevOps Defined](DevOps.md)
 
 
-###Misconceptions(myths) about DevOps
-
 [The Myths](Myths.md)
 
 ### Jared Crummey
