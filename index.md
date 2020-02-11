@@ -1,4 +1,6 @@
 ## The DevOps Experience
+![DevOps Cycle](image1.png)
+Format: ![Alt Text](https://medium.com/tech-tajawal/devops-in-a-scaling-environment-9d5416ecb928)
 
 ### DevOps
 [DevOps Defined](DevOps.md)
