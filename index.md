@@ -36,6 +36,9 @@ Most of my experience is in hardware, software deployment, and networking as opp
 
 I have experience in customer service and am currently completing coursework for Technology Management in hopes of having a career in the IT field. I am a member of the Aggie Class of 2021.
 
+### Brandon Blakemore
+I am a hardware specialist trying to learn how to navigate the Dev world. I enjoy old tech and making old things with the newest parts available. Currently Aggie Class of 2020 set to graduate in December. 
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bonfirepilot/tcmg412/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
