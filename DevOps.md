@@ -12,4 +12,6 @@ also being more accurate. Troubleshooting issues that arise while working on an 
 you have everyone who has worked on creating it/deploying it working together. Having an IT team that is able to keep up with the always
 changing technological updates is key to having a successful business.
 
+[Home](index.md)
+
 **Page was created by Jessica Nalley**
