@@ -32,6 +32,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Most of my experience is in hardware, software deployment, and networking as opposed to coding and development-oriented things. I've been working since I was 13, and have 7 years of experience in customer service, as well as small business setup and operations. I'm a member of the Fightin' Texas Aggie Class of 2020, and a proud member of student bonfire. 
 
+### Armand Bradford
+
+I have experience in customer service and am currently completing coursework for Technology Management in hopes of having a career in the IT field. I am a member of the Aggie Class of 2021.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bonfirepilot/tcmg412/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
