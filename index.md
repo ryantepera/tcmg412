@@ -39,6 +39,9 @@ I have experience in customer service and am currently completing coursework for
 ### Brandon Blakemore
 I am a hardware specialist trying to learn how to navigate the Dev world. I enjoy old tech and making old things with the newest parts available. Currently Aggie Class of 2020 set to graduate in December. 
 
+### Tristan Zoeller
+I have a good amount of customer service experience through jobs I have had and am working on getting a degree in technology management in the hopes of having a career in the IT industry. I am a proud member of the Fightin' Texas Aggie Class of 2020.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bonfirepilot/tcmg412/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
