@@ -1,3 +1,5 @@
+**The Benefits of DevOps**
+
 DevOps has become increasingly more and more popular in recent years for a good reasons. 
 It has a lot of benefits for a business that chooses to put the time into implementing this system into their business.
 There are 5 benefits to companies that implement a DevOps strategy into their business and those are
@@ -9,4 +11,4 @@ There are 5 benefits to companies that implement a DevOps strategy into their bu
 
 [Home](index.md)
 
-### Made by Tristan Zoeller
+**Made by Tristan Zoeller**
