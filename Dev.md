@@ -4,6 +4,8 @@ In DevOps, the Development side of the chain normally consists of creation, plan
   
 The development side of things has more to do with the actual code needed for a project rather than making the product operational. These are the people who write the code and set up the structure/foundation for the application/product they are producing. If the development team does not complete their work efficiently, then the operations team cannot get the application/product up and running. This role in a company normally consists of software engineers which requires a degree in Computer Science or Software Engineering. 
 
+![Development](https://www.newtechsociety.org/wp-content/uploads/2018/10/IT-Development.jpeg)
+
 
 [Home](index.md)
 
