@@ -1,4 +1,5 @@
 **The Benefits of DevOps**
+![DevOps benefits]()
 
 DevOps has become increasingly more and more popular in recent years for a good reasons. 
 It has a lot of benefits for a business that chooses to put the time into implementing this system into their business.
