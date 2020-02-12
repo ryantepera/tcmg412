@@ -4,7 +4,7 @@ The other side of DevOps, is the Operational side of the chain that is in charge
 
 The value that operations gives to a company is almost immeasurable. Without the final work operations to fix any necessary bugs or issues, secure the operational stability and efficiency of the product, customers would have unreliable products that may or may not meet their needs. There are also many current issues or future complications that are avoided because they are caught by a second set of eyes when the operations team works to deploy the application or product. Companies rely heavily on operations, just as they do development, because both are necessary to have a profound and productive IT department.
 
-
+![Opss](https://leankit.com//uploads/images/general/_ogShare/How-to-Define-IT-Operations.jpg)
 [Home](index.md)
 
 **This page was a collective effort**
