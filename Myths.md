@@ -7,7 +7,7 @@ will try to condense it into a job title or buzzword. Here are a few DevOps myth
 ## Myth 1: Devops Only Involves Developers and System Administrators
 
 DevOps actually involves all aspects of the organization. It is a concept of working together using all of the necessary pieces for 
-a project. From development to deployment, DevOps encourages collaboration and understanding.
+a project. From development to deployment, DevOps encourages collaboration and understanding between all employees.
 
 ## Myth 2: DevOps is a Team
 
