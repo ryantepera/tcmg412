@@ -33,6 +33,8 @@ I have a good amount of customer service experience through jobs I have had and 
 ### Jessica Nalley
 I have three years of customer service experience. I enjoy working with databases and hope to pursue a career in that area of the IT industry. I am also a Fightin' Texas Aggie Class of 2020 set to graduate in December.
 
+### Ryan Tepera
+I currently work at Mays Business school in the IT department working on software and the helpdesk. I'm trying to pursue a career in Cyber Security or IT management. I am currently set to graduate in the Aggie Class of 2021.
 
 ### Support or Contact
 
