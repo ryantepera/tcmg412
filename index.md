@@ -10,6 +10,8 @@
 
 [The Ops](Ops.md)
 
+[DevOps Benefits](Benefits.md)
+
 ### Jared Crummey
 
 Most of my experience is in hardware, software deployment, and networking as opposed to coding and development-oriented things. I've been working since I was 13, and have 7 years of experience in customer service, as well as small business setup and operations. I'm a member of the Fightin' Texas Aggie Class of 2020, and a proud member of student bonfire. 
