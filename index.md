@@ -4,6 +4,8 @@
 ### DevOps
 [DevOps Defined](DevOps.md)
 
+[DevOps Manifesto](Manifesto.md)
+
 [The Myths](Myths.md)
 
 [The Devs](Dev.md)
@@ -11,6 +13,7 @@
 [The Ops](Ops.md)
 
 [DevOps Benefits](Benefits.md)
+
 
 ### Jared Crummey
 
